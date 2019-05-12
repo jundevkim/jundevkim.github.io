@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "JunGi_Kim"
-  avatar           : "/assets/images/pixie# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pixie/jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "test my description"
   location         : "South_Korea"
   email            : junhardstudy@knu.ac.kr
